@@ -3,11 +3,6 @@
 #+DATE: 2015-09-23 10:31:38
 #+PROPERTY: LASTPB  <pb:KR4h0019_SBCK_003-26a>
 #+PROPERTY: JUAN 5
-
-<md:KR4h0019_WYG_005-1a>¶
-<pb:KR4h0019_SBCK_004-22b>
-才調集卷第四
-
 <md:KR4h0019_WYG_005-8a>¶
 <pb:KR4h0019_SBCK_005-1a>
 才調集卷第五
@@ -465,3 +460,5 @@
 <pb:KR4h0019_SBCK_005-23a>
 班超¶
 才調集卷第五
+<pb:KR4h0019_SBCK_005-23b>
+<md:KR4h0019_WYG_006-1a>¶

@@ -3,9 +3,6 @@
 #+DATE: 2015-09-23 10:31:38
 #+PROPERTY: LASTPB  <pb:KR4h0019_SBCK_005-23b>
 #+PROPERTY: JUAN 7
-
-<pb:KR4h0019_SBCK_006-26a>
-<md:KR4h0019_WYG_007-1a>¶
 <pb:KR4h0019_SBCK_007-1a>
 才調集卷第七
 　古律雜歌詩一百首<md:KR4h0019_WYG_007-10a>¶　　李宣古一首¶
@@ -457,3 +454,5 @@
 莊周夢<md:KR4h0019_WYG_007-34a>¶化作南園蛺蝶飛
 <pb:KR4h0019_SBCK_007-22b>
 才調集卷第七
+¶
+<md:KR4h0019_WYG_008-1a>¶

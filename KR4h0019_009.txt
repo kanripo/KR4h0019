@@ -3,9 +3,6 @@
 #+DATE: 2015-09-23 10:31:38
 #+PROPERTY: LASTPB  <md:KR4h0019_WYG_008-1a>
 #+PROPERTY: JUAN 9
-
-¶
-<md:KR4h0019_WYG_009-1a>¶
 <pb:KR4h0019_SBCK_009-1a>
 才調集卷第九
 　古¶律雜歌詩一百首<md:KR4h0019_WYG_009-11a>¶　　劉商一首¶
@@ -489,5 +486,3 @@
 惆悵後<md:KR4h0019_WYG_009-35b>¶至今來往馬蹄腥
 <pb:KR4h0019_SBCK_009-24b>
 
-<pb:KR4h0019_SBCK_010-1a>
-才調集卷第

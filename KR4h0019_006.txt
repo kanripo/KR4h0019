@@ -3,9 +3,6 @@
 #+DATE: 2015-09-23 10:31:38
 #+PROPERTY: LASTPB  <md:KR4h0019_WYG_005-8a>
 #+PROPERTY: JUAN 6
-
-<pb:KR4h0019_SBCK_005-23b>
-<md:KR4h0019_WYG_006-1a>¶
 <pb:KR4h0019_SBCK_006-1a>
 才調集卷第六
 　古¶律雜歌詩一百首
@@ -524,3 +521,5 @@
 淺兩般紅
 <pb:KR4h0019_SBCK_006-25b>
 才調集卷第六
+<pb:KR4h0019_SBCK_006-26a>
+<md:KR4h0019_WYG_007-1a>¶
